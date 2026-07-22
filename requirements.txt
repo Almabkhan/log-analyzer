@@ -1,0 +1,5 @@
+# This project uses only Python's standard library (re, collections,
+# argparse, urllib.parse) — no external dependencies required to run it.
+#
+# For running the test suite, install:
+pytest>=7.0.0
